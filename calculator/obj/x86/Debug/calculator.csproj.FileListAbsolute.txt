@@ -1,0 +1,20 @@
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Form1.resources
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.exe
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.pdb
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.exe
+C:\Users\hyes\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\hyes\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\calculator.exe
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\calculator.pdb

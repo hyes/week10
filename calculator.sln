@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator\calculator.csproj", "{F5393652-E5E1-4E78-A406-400A23079270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIRectangle02", "GUIRectangle02\GUIRectangle02.csproj", "{631C9BAD-3FEE-4CCF-82BF-03534E995616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIRectangle01", "WindowsFormsApplication1\GUIRectangle01.csproj", "{D81B0324-2041-4575-AD04-6C0B7A6E2485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5393652-E5E1-4E78-A406-400A23079270}.Debug|x86.ActiveCfg = Debug|x86
+		{F5393652-E5E1-4E78-A406-400A23079270}.Debug|x86.Build.0 = Debug|x86
+		{F5393652-E5E1-4E78-A406-400A23079270}.Release|x86.ActiveCfg = Release|x86
+		{F5393652-E5E1-4E78-A406-400A23079270}.Release|x86.Build.0 = Release|x86
+		{631C9BAD-3FEE-4CCF-82BF-03534E995616}.Debug|x86.ActiveCfg = Debug|x86
+		{631C9BAD-3FEE-4CCF-82BF-03534E995616}.Debug|x86.Build.0 = Debug|x86
+		{631C9BAD-3FEE-4CCF-82BF-03534E995616}.Release|x86.ActiveCfg = Release|x86
+		{631C9BAD-3FEE-4CCF-82BF-03534E995616}.Release|x86.Build.0 = Release|x86
+		{D81B0324-2041-4575-AD04-6C0B7A6E2485}.Debug|x86.ActiveCfg = Debug|x86
+		{D81B0324-2041-4575-AD04-6C0B7A6E2485}.Debug|x86.Build.0 = Debug|x86
+		{D81B0324-2041-4575-AD04-6C0B7A6E2485}.Release|x86.ActiveCfg = Release|x86
+		{D81B0324-2041-4575-AD04-6C0B7A6E2485}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\GUIRec02.Properties.Resources.resources
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\bin\Debug\GUIRec02.exe
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\bin\Debug\GUIRec02.pdb
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\GUIRec02.exe
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\GUIRec02.pdb
+C:\Users\hyes\documents\visual studio 2010\Projects\GUIRec_lab03\GUIRec02\obj\x86\Debug\GUIRec02.Form1.resources
