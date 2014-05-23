@@ -47,10 +47,5 @@ namespace GUIRec_lab02
             rectangles.Add(rectangle);
             Form1_Paint(null, null);
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

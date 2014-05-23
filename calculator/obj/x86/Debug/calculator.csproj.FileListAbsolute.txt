@@ -18,3 +18,10 @@ C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\bin\De
 C:\Users\hyes\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
 C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\calculator.exe
 C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\calculator.Form1.resources
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hyes\Desktop\week10\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hyes\Desktop\week10\calculator\bin\Debug\calculator.exe
+C:\Users\hyes\Desktop\week10\calculator\bin\Debug\calculator.pdb

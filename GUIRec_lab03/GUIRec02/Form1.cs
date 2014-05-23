@@ -53,7 +53,7 @@ namespace GUIRec02
             
             newrec[1] = rectangle;
             
-            Array.Copy(rectangles,1, newrec,2, rectangles.Length -1);
+            Array.Copy(rectangles,1, newrec,2, rectangles.Length-1);
             
             rectangles = newrec;
             Form1_Paint(null, null);

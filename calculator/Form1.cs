@@ -13,6 +13,7 @@ namespace calculator
     {
        public int number1;
        public int number2;
+        textBox1.Text = "";
 
         public Form1()
         {
@@ -76,9 +77,12 @@ namespace calculator
 
         private void button11_Click(object sender, EventArgs e)//+
         {
+  
             this.number1 = int.Parse(textBox1.Text);
             textBox1.Text = "+";
+             
         }
+       
 
         private void button12_Click(object sender, EventArgs e)//=
         {
@@ -107,6 +111,6 @@ namespace calculator
             else
                 textBox1.Text = textBox1.Text + value;
         }
-      
-    }
+     
+      }
 }
